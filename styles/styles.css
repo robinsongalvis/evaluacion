@@ -1,0 +1,233 @@
+
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800');
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.hero{
+
+height:100vh;
+width:100%;
+z-index: -1;
+overflow:hidden;
+margin-top: 0;
+}
+.logo{
+      z-index: 3;
+
+}
+h1{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(255, 255, 255);
+  margin: -510px 10px 10px 50px ;
+  font-size: 50px;
+}
+h2{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(255, 255, 255);
+  margin: -480px 10px 10px 50px ;
+  font-size: 50px;
+}
+.boton1{
+  padding: 23px 36px;
+      display: inline-block;
+      background-color: white;
+      bottom: 200px;
+      left: 50px;
+      position: absolute;
+      color: rgb(0, 56, 162);
+      font-family: 'Nunito', sans-serif;
+      border-radius: 3%;
+      border: 0px solid rgb(0, 0, 0);
+      width: 102px;
+      height: 12px;
+      font-size: 15px;
+      text-decoration: none;
+  }
+  .boton1:hover{
+    background-color: rgb(76, 83, 235);
+    color: rgb(255, 255, 255)
+  }
+.boton2{
+  padding: 23px 36px;
+
+    display: inline-block;
+    bottom: 200px;
+    left: 250px;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-family: 'Nunito', sans-serif;
+    border-radius: 3%;
+    border: 0.5px solid rgb(255, 255, 255);
+    width: 102px;
+    height: 12px;
+    font-size: 13px;
+    text-decoration: none;
+}
+.boton2:hover{
+  background-color: rgb(76, 83, 235);
+  color: rgb(255, 255, 255)
+}
+.tablero{
+  width: 50%;
+  height: 50%;
+  margin: 565px 0 0 0;
+  overflow:hidden;
+  position: absolute;
+  z-index: -1;
+}
+.contegrande{
+  background-color: rgb(218, 150, 84);
+  margin: 564px 0 0 0;
+}
+.contenedor1{
+  background-color: rgb(61, 91, 121) ;
+  margin: 564px 0 0 0;
+  width: 100%;
+height: 446px;
+}
+.intro{
+  width: 750px;
+  height: 446px;
+  z-index: 1;
+}
+.html5{
+  z-index: 1;
+  position: absolute;
+  margin: -252px 10px 10px 341px;
+}
+.hi{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(255, 255, 255);
+  margin: -340px 10px 10px 857px;
+  font-size: 30px;
+
+}
+.loren{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(255, 255, 255);
+  margin: 45px 10px 10px 857px;
+  font-size: 20px;
+}
+.terminado{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(0, 96, 251);
+  margin: 30px 10px 10px 857px;
+  font-size: 20px;
+}
+.lostres{
+  width: 100%;
+  height: 378px;
+
+  margin: 114px 0 0 0;
+}
+.responsi{
+  margin-top: auto;
+  position: absolute;
+  margin: 132px 10px 10px 100px;
+}
+.responsi2{
+  margin-top: auto;
+position: absolute;
+margin: 132px 10px 10px 572px;
+}
+.responsi3{
+  margin-top: auto;
+position: absolute;
+margin: 132px 10px 10px 1050px;
+}
+.res{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(61, 91, 121) ;
+  margin: -96px 10px 10px 142px;
+  font-size: 30px;
+}
+.peque{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(61, 91, 121) ;
+  margin: 1px 10px 10px 142px;
+  font-size: 22px;
+  width: 200px;
+  height: 200px;
+
+}
+.read{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(61, 91, 121) ;
+  margin: 20px 10px 10px 142px;
+  font-size: 22px;
+
+}
+.read:hover{
+background-color: rgb(76, 83, 235);
+color: rgb(255, 255, 255)
+}
+.ress{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(61, 91, 121) ;
+  margin: -96px 10px 10px 140px;
+  font-size: 30px;
+}
+.peques{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(61, 91, 121) ;
+  margin: 1px 10px 10px 140px;
+  font-size: 22px;
+  width: 200px;
+  height: 200px;
+
+}
+.readd{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(61, 91, 121) ;
+  margin: 20px 10px 10px 140px;
+  font-size: 22px;
+}
+.readd:hover{
+background-color: rgb(76, 83, 235);
+color: rgb(255, 255, 255)
+}
+.resss{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(61, 91, 121) ;
+  margin: -96px 10px 10px 151px;
+  font-size: 30px;
+}
+.pequess{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(61, 91, 121) ;
+  margin: 1px 10px 10px 151px;
+  font-size: 22px;
+  width: 200px;
+  height: 200px;
+
+}
+.readdd{
+  font-family: 'Nunito', sans-serif;
+  color: rgb(61, 91, 121) ;
+  margin: 20px 10px 10px 151px;
+  font-size: 22px;
+}
+.readdd:hover{
+background-color: rgb(76, 83, 235);
+color: rgb(255, 255, 255);
+}
+.colorw{
+  width: 100%;
+  height: 672px;
+  background-color:  rgb(61, 91, 121) ;
+  z-index: 1;
+  margin:  100px 0 0 0;
+}
+.iphone{
+  margin: 111px 10px 10px 170px;
+  z-index: auto;
+
+}
+.iphoima{
+  margin: -574px 10px 10px 226px;
+  width: 247px;
+  height: 445px;
+  z-index: 2;
+  position: absolute;
+}
